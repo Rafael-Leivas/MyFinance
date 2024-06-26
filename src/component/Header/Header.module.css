@@ -1,0 +1,33 @@
+header{
+  
+  background-color: #252525;
+  padding: 20px 0;
+
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.logo {
+  color: #fff;
+  font-size: 1.5rem;
+  font-family: 'Lobster', cursive;
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.link {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.2rem;
+  font-family: 'Lobster', cursive;
+}

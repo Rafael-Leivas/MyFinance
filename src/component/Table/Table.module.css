@@ -1,0 +1,18 @@
+.content {
+  width: 80%;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  gap: 3rem;
+}
+
+.table tbody{
+  text-align: center;
+}
+
+.table tbody tr td{
+  margin-top: 20px;
+  padding: 3px;
+}

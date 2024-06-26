@@ -1,0 +1,18 @@
+footer {
+  background-color: #252525;
+  padding: 20px 0;
+  margin-top: 50px;
+}
+
+.content{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #fff;
+}
+
+.direitos {
+  text-decoration: none;
+}
+
